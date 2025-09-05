@@ -1,0 +1,33 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "css",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/css_big.png"
+  },
+  {
+    "name": "event1",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Adventure_Classic_All-Star.png"
+  },
+  {
+    "name": "event2",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Events_VS_Training.png"
+  },
+  {
+    "name": "event3",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Home-Run_Target_Test.png"
+  },
+  {
+    "name": "event4",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Character_Unlock.png"
+  }
+]

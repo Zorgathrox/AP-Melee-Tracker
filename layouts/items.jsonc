@@ -1,0 +1,142 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type":"text",
+            "text":"1P MODES",
+            "h_alignment":"center",
+            "v_alignment":"center"
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment":"center",
+            "v_alignment":"center",
+            "item_margin": "10, 10",
+            "item_size": "48,48",
+            "background":"#FFFFFF",
+            "rows": [
+              [
+                "AdventureMode",
+                "ClassicMode",
+                "All-StarMode",
+                "Home-RunContest",
+                "Multi-ManMelee",
+                "TargetTest",
+                "EventPack1"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title":"Characters",
+            "content": [
+              {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                  {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "margin": "0,0",
+                    "content": [
+                      {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "item_size": "48,48",
+                        "rows":[
+                          [
+                            "CharacterDrMario",
+                            "CharacterMario",
+                            "CharacterLuigi",
+                            "CharacterBowser",
+                            "CharacterPeach",
+                            "CharacterYoshi",
+                            "CharacterDonkeyKong",
+                            "CharacterCaptainFalcon",
+                            "CharacterGanondorf"
+                          ],
+                          [
+                            "CharacterFalco",
+                            "CharacterFox",
+                            "CharacterNess",
+                            "CharacterIceClimbers",
+                            "CharacterKirby",
+                            "CharacterSamus",
+                            "CharacterZelda",
+                            "CharacterLink",
+                            "CharacterYoungLink"
+                          ],
+                          [
+                            "CharacterPichu",
+                            "CharacterPikachu",
+                            "CharacterJigglypuff",
+                            "CharacterMewtwo",
+                            "CharacterMrGame&Watch",
+                            "CharacterMarth",
+                            "CharacterRoy"
+                          ]
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Stages",
+            "content": [
+              {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                  {
+                    "type": "itemgrid",
+                    "item_margin": "10, 10",
+                    "item_size": "64,48",
+                    "rows": [
+                      [
+                        "StageBrinstarDepths",
+                        "StageFourside",
+                        "StageBigBlue",
+                        "StagePokéFloats"
+                      ],
+                      [
+                        "StageMushroomKingdomII",
+                        "StageBattlefield",
+                        "StageFinalDestination",
+                        "StageDreamLandPast"
+                      ],
+                      [
+                        "StageYoshisIslandPast",
+                        "StageKongoJunglePast",
+                        "StageFlatZone"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

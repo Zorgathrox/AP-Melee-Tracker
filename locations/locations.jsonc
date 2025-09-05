@@ -1,0 +1,1790 @@
+[
+  {
+    "name": "Dr. Mario Things",
+    "children": [
+      {
+        "name": "Dr. Mario",
+        "visibility_rules": [
+          "CharacterDrMario"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mario Things",
+    "children": [
+      {
+        "name": "Mario",
+        "visibility_rules": [
+          "CharacterMario"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 320,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luigi Things",
+    "children": [
+      {
+        "name": "Luigi",
+        "visibility_rules": [
+          "CharacterLuigi"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 550,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bowser Things",
+    "children": [
+      {
+        "name": "Bowser",
+        "visibility_rules": [
+          "CharacterBowser"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 800,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peach Things",
+    "children": [
+      {
+        "name": "Peach",
+        "visibility_rules": [
+          "CharacterPeach"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1000,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yoshi Things",
+    "children": [
+      {
+        "name": "Yoshi",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterYoshi"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1200,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong Things",
+    "children": [
+      {
+        "name": "Donkey Kong",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterDonkeyKong"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1450,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain Falcon Things",
+    "children": [
+      {
+        "name": "Captain Falcon",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterCaptainFalcon"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1700,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ganondorf Things",
+    "children": [
+      {
+        "name": "Ganondorf",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterGanondorf"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1900,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Things",
+    "children": [
+      {
+        "name": "Falco",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterFalco"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 100,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fox Things",
+    "children": [
+      {
+        "name": "Fox",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterFox"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 320,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ness Things",
+    "children": [
+      {
+        "name": "Ness",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterNess"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 550,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ice Climbers Things",
+    "children": [
+      {
+        "name": "Ice Climbers",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterIceClimbers"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 800,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kirby Things",
+    "children": [
+      {
+        "name": "Kirby",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterKirby"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1000,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samus Things",
+    "children": [
+      {
+        "name": "Samus",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterSamus"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1200,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zelda Things",
+    "children": [
+      {
+        "name": "Zelda",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterZelda"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1450,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Link Things",
+    "children": [
+      {
+        "name": "Link",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterLink"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1700,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Young Link Things",
+    "children": [
+      {
+        "name": "Young Link",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterYoungLink"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1900,
+            "y": 325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pichu Things",
+    "children": [
+      {
+        "name": "Pichu",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterPichu"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 320,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pikachu Things",
+    "children": [
+      {
+        "name": "Pikachu",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterPikachu"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 550,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jigglypuff Things",
+    "children": [
+      {
+        "name": "Jigglypuff",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterJigglypuff"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 800,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mewtwo Things",
+    "children": [
+      {
+        "name": "Mewtwo",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterMewtwo"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1000,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mr. Game & Watch Things",
+    "children": [
+      {
+        "name": "Mr. Game & Watch",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterMrGame&Watch"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1200,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marth Things",
+    "children": [
+      {
+        "name": "Marth",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterMarth"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1450,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Roy Things",
+    "children": [
+      {
+        "name": "Roy",
+        "visibility_rules": [
+          //read as: progressive_2 or toggle
+          "CharacterRoy"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "AdventureMode"
+            ],
+            "name": "Adventure Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "ClassicMode"
+            ],
+            "name": "Classic Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "All-StarMode"
+            ],
+            "name": "All-Star Mode",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "TargetTest"
+            ],
+            "name": "Target Test",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "css",
+            "x": 1700,
+            "y": 550
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Mode Hard",
+    "children": [
+      {
+        "name": "Hard (or higher)",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Adventure mode in Hard (or higher) difficulty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 200,
+            "y": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Mode Hard",
+    "children": [
+      {
+        "name": "Hard (or higher)",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Adventure mode in Hard (or higher) difficulty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 200,
+            "y": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Mode Hard No Continues",
+    "children": [
+      {
+        "name": "Hard (or higher), no continues",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Adventure mode in Hard (or higher) difficulty, no continues",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 550,
+            "y": 235
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Mode Speedrun",
+    "children": [
+      {
+        "name": "Speedrun",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Adventure mode in 18'20'' or less",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 425,
+            "y": 310
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Escape Brinstar",
+    "children": [
+      {
+        "name": "Escape Brinstar",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Escape Brinstar in Adventure Mode",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 475,
+            "y": 375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Defeat Giga Bowser",
+    "children": [
+      {
+        "name": "Defeat Giga Bowser",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "(On Normal or higher difficulty, reach and defeat Giant Bowser within 18 minutes)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 400,
+            "y": 600
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classic Mode Hard",
+    "children": [
+      {
+        "name": "Hard (or higher)",
+        "access_rules": [
+          "ClassicMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Classic mode in Hard (or higher) difficulty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 875,
+            "y": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classic Mode Hard No Continues",
+    "children": [
+      {
+        "name": "Hard (or higher), no continues",
+        "access_rules": [
+          "AdventureMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete Classic mode in Hard (or higher) difficulty, no continues",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 1200,
+            "y": 235
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Defeat Crazy Hand",
+    "children": [
+      {
+        "name": "Defeat Crazy Hand",
+        "access_rules": [
+          "ClassicMode"
+        ],
+        "sections": [
+          {
+            "name": "(On Normal or higher difficulty, reach Master Hand and reduce its HP by half within 5'50'' since the start of the mode)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 1050,
+            "y": 600
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All-Star Mode Hard",
+    "children": [
+      {
+        "name": "Hard (or higher)",
+        "access_rules": [
+          "All-StarMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete All-Star mode in Hard (or higher) difficulty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 1475,
+            "y": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All-Star Mode Hard No Continues",
+    "children": [
+      {
+        "name": "Hard (or higher), no continues",
+        "access_rules": [
+          "All-StarMode"
+        ],
+        "sections": [
+          {
+            "name": "Complete All-Star mode in Hard (or higher) difficulty, no continues",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event1",
+            "x": 1850,
+            "y": 225
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Events 1-10",
+    "children": [
+      {
+        "name": "Events 1-10",
+        "access_rules": [
+          "EventPack0",
+          "EventPack1",
+          "EventPack2",
+          "EventPack3",
+          "EventPack4",
+          "EventPack5",
+          "EventPack6",
+          "EventPack7",
+          "EventPack8"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "CharacterMario"
+            ],
+            "name": "1 - Trouble King",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterDonkeyKong"
+            ],
+            "name": "2 - Lord of the Jungle",
+            "item_count": 1
+          },
+          {
+            "name": "3 - Bomb-fest",
+            "item_count": 1
+          },
+          {
+            "name": "4 - Dino-wrangling",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterNess"
+            ],
+            "name": "5 - Spare Change",
+            "item_count": 1
+          },
+          {
+            "name": "6 - Kirbys on Parade",
+            "item_count": 1
+          },
+          {
+            "name": "7 - Pokémon Battle",
+            "item_count": 1
+          },
+          {
+            "name": "8 - Hot Date on Brinstar",
+            "item_count": 1
+          },
+          {
+            "name": "9 - Hide 'n' Sheik",
+            "item_count": 1
+          },
+          {
+            "name": "10 - All-Star Match 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event2",
+            "x": 250,
+            "y": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Events 11-15",
+    "children": [
+      {
+        "name": "Events 11-15",
+        "access_rules": [
+          "EventPack1",
+          "EventPack2",
+          "EventPack3",
+          "EventPack4",
+          "EventPack5",
+          "EventPack6",
+          "EventPack7",
+          "EventPack8"
+        ],
+        "sections": [
+          {
+            "name": "11 - King of the Mountain",
+            "item_count": 1
+          },
+          {
+            "name": "12 - Seconds, Anyone ?",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterYoshi"
+            ],
+            "name": "13 - Yoshi's Egg",
+            "item_count": 1
+          },
+          {
+            "name": "14 - Trophy Tussle 1",
+            "item_count": 1
+          },
+          {
+            "name": "15 - Girl Power",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event2",
+            "x": 250,
+            "y": 250
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Events 16-20",
+    "children": [
+      {
+        "name": "Events 16-20",
+        "access_rules": [
+          "EventPack2",
+          "EventPack3",
+          "EventPack4",
+          "EventPack5",
+          "EventPack6",
+          "EventPack7",
+          "EventPack8"
+        ],
+        "sections": [
+          {
+            "access_rules": [
+              "CharacterKirby"
+            ],
+            "name": "16 - Kirby's Air-raid",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterSamus"
+            ],
+            "name": "17 - Bounty Hunters",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterLink"
+            ],
+            "name": "18 - Link's Adventure",
+            "item_count": 1
+          },
+          {
+            "access_rules": [
+              "CharacterMario"
+            ],
+            "name": "19 - Peach's Peril",
+            "item_count": 1
+          },
+          {
+            "name": "20 - All-Star Match 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event2",
+            "x": 290,
+            "y": 380
+          }
+        ]
+      }
+    ]
+  },
+  {"name": "Events 21-25", "children": [{"name": "Events 21-25", "access_rules": ["EventPack3", "EventPack4", "EventPack5", "EventPack6", "EventPack7", "EventPack8"], "sections": [{"name": "21 - Ice Breaker", "item_count": 1}, {"name": "22 - Super Mario 128", "item_count": 1}, {"name": "23 - Slippy's Invention", "item_count": 1}, {"name": "24 - The Yoshi Herd", "item_count": 1}, {"access_rules": ["CharacterBowser"], "name": "25 - Gargantuans", "item_count": 1}], "map_locations": [{"map": "event2", "x": 300, "y": 500}]}]},
+  {"name": "Events 26-29", "children": [{"name": "Events 26-29", "access_rules": ["EventPack4", "EventPack5", "EventPack6", "EventPack7", "EventPack8"], "sections": [{"name": "26 - Trophy Tussle 2", "item_count": 1}, {"access_rules": ["CharacterSamus"], "name": "27 - Cold Armor", "item_count": 1}, {"name": "28 - Puffballs Unite!", "item_count": 1}, {"access_rules": ["CharacterLink"], "name": "29 - Triforce Gathering", "item_count": 1}], "map_locations": [{"map": "event2", "x": 600, "y": 150}]}]},
+  {"name": "Event 30", "children": [{"name": "Event 30", "access_rules": ["EventPack5", "EventPack6", "EventPack7", "EventPack8"], "sections": [{"name": "30 - All-Star Match 3", "item_count": 1}], "map_locations": [{"map": "event2", "x": 490, "y": 275}]}]},
+  {"name": "Events 31-39", "children": [{"name": "Events 31-39", "access_rules": ["EventPack6", "EventPack7", "EventPack8"], "sections": [{"name": "31 - Mario Bros. Madness", "item_count": 1}, {"access_rules": ["CharacterFalco"], "name": "32 - Target Acquired", "item_count": 1}, {"access_rules": ["CharacterCaptainFalcon"], "name": "33 - Lethal Marathon", "item_count": 1}, {"access_rules": ["CharacterYoungLink"], "name": "34 - Seven Years", "item_count": 1}, {"access_rules": ["CharacterLuigi"], "name": "35 - Time for a Checkup", "item_count": 1}, {"access_rules": ["CharacterNess"], "name": "36 - Space Travelers", "item_count": 1}, {"name": "37 - Legendary Pok\u00e9mon", "item_count": 1}, {"name": "38 - Super Mario Bros. 2", "item_count": 1}, {"access_rules": ["CharacterJigglypuff"], "name": "39 - Jigglypuff Live!", "item_count": 1}], "map_locations": [{"map": "event2", "x": 590, "y": 400}]}]},
+  {"name": "Events 40-50", "children": [{"name": "Events 40-50", "access_rules": ["EventPack7", "EventPack8"], "sections": [{"name": "40 - All-Star Match 4", "item_count": 1}, {"access_rules": ["CharacterMarth"], "name": "41 - En Garde!", "item_count": 1}, {"access_rules": ["CharacterLuigi"], "name": "42 - Trouble King 2", "item_count": 1}, {"access_rules": ["CharacterFox"], "name": "43 - Birds of Prey", "item_count": 1}, {"name": "44 - Mewtwo Strikes!", "item_count": 1}, {"access_rules": ["CharacterMrGame&Watch"], "name": "45 - Game & Watch Forever!", "item_count": 1}, {"name": "46 - Fire Emblem Pride", "item_count": 1}, {"name": "47 - Trophy Tussle 3", "item_count": 1}, {"name": "48 - Pikachu and Pichu", "item_count": 1}, {"name": "49 - All-Star Match Deluxe", "item_count": 1}, {"name": "50 - Final Destination Match", "item_count": 1}], "map_locations": [{"map": "event2", "x": 600, "y": 500}]}]},
+  {"name": "Event 51", "children": [{"name": "Event 51", "access_rules": ["EventPack8"], "sections": [{"name": "51 - The Showdown", "item_count": 1}], "map_locations": [{"map": "event2", "x": 360, "y": 650}]}]},
+  {
+    "name":"See Mew",
+    "children": [
+      {
+        "name":"See Mew",
+        "sections": [
+          {
+            "name": "See Mew", 
+            "item_count": 1
+          }
+        ], 
+        "map_locations": [
+          {
+            "map": "event2", 
+            "x": 1100, 
+            "y": 175
+          }
+        ]
+      }
+    ]
+  },
+  {"name": "See Celebi", "children": [{"name": "See Celebi", "sections": [{"name": "See Celebi", "item_count": 1}], "map_locations": [{"map": "event2", "x": 1100, "y": 250}]}]},
+  {"name": "10 KO's", "children": [{"name": "10 KO's", "sections": [{"name": "10 KO's", "item_count": 1}], "map_locations": [{"map": "event2", "x": 1100, "y": 325}]}]},
+  {"name": "50 KO's", "children": [{"name": "50 KO's", "sections": [{"name": "50 KO's", "item_count": 1}], "map_locations": [{"map": "event2", "x": 1100, "y": 390}]}]},      
+  {"name": "Walk 100m", "children": [{"name": "Walk 100m", "sections": [{"name": "Walk 100m", "item_count": 1}], "map_locations": [{"map": "event2", "x": 1100, "y": 490}]}]},
+  {
+    "name":"11-hit Combo",
+    "children": [
+      {
+        "name":"11-hit Combo",
+        "sections": [
+          {
+            "name": "11-hit Combo", 
+            "item_count": 1
+          }
+        ], 
+        "map_locations": [
+          {
+            "map": "event2", 
+            "x": 1700, 
+            "y": 185
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"21-hit Combo",
+    "children": [
+      {
+        "name":"21-hit Combo",
+        "sections": [
+          {
+            "name": "21-hit Combo", 
+            "item_count": 1
+          }
+        ], 
+        "map_locations": [
+          {
+            "map": "event2", 
+            "x": 1700, 
+            "y": 270
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"125 Combos combined",
+    "children": [
+      {
+        "name":"125 Combos combined",
+        "sections": [
+          {
+            "name": "125 Combos combined", 
+            "item_count": 1
+          }
+        ], 
+        "map_locations": [
+          {
+            "map": "event2", 
+            "x": 1900, 
+            "y": 350
+          }
+        ]
+      }
+    ]
+  },
+  {"name": ["984 ft"], "access_rules": ["Home-RunContest"], "children": [{"name": ["984 ft"], "sections": [{"access_rules": [], "name": "984 ft", "item_count": 1}], "map_locations": [{"map": "event3", "x": 290, "y": 180}]}]},
+{"name": ["1312.3 ft"], "access_rules": ["Home-RunContest"], "children": [{"name": ["1312.3 ft"], "sections": [{"access_rules": [], "name": "1312.3 ft", "item_count": 1}], "map_locations": [{"map": "event3", "x": 350, "y": 300}]}]},
+{"name": ["1476 ft"], "access_rules": ["Home-RunContest"], "children": [{"name": ["1476 ft"], "sections": [{"access_rules": [], "name": "1476 ft", "item_count": 1}], "map_locations": [{"map": "event3", "x": 310, "y": 410}]}]},
+{"name": ["16.404 ft combined"], "access_rules": ["Home-RunContest"], "children": [{"name": ["16.404 ft combined"], "sections": [{"access_rules": [], "name": "16.404 ft combined", "item_count": 1}], "map_locations": [{"map": "event3", "x": 725, "y": 520}]}]},
+
+{"name": ["25'00'' or less combined"], "access_rules": ["TargetTest,$got_all_characters"], "children": [{"name": ["25'00'' or less combined"], "sections": [{"access_rules": [], "name": "25'00'' or less combined", "item_count": 1}], "map_locations": [{"map": "event3", "x": 1800, "y": 200}]}]},
+{"name": ["12'30'' or less combined"], "access_rules": ["TargetTest,$got_all_characters"], "children": [{"name": ["12'30'' or less combined"], "sections": [{"access_rules": [], "name": "12'30'' or less combined", "item_count": 1}], "map_locations": [{"map": "event3", "x": 1800, "y": 290}]}]},
+
+{"name": ["Jigglypuff Unlock Match"], "access_rules": ["ClassicMode", "AdventureMode", "All-StarMode"], "children": [{"name": ["Jigglypuff Unlock Match"], "sections": [{"access_rules": [], "name": "Jigglypuff Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 90}]}]},
+{"name": ["Dr. Mario Unlock Match"], "access_rules": ["ClassicMode", "AdventureMode", "All-StarMode"], "children": [{"name": ["Dr. Mario Unlock Match"], "sections": [{"access_rules": ["CharacterMario"], "name": "Dr. Mario Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 650, "y": 90}]}]},
+{"name": ["Young Link Unlock Match"], "access_rules": ["ClassicMode", "AdventureMode", "All-StarMode"], "children": [{"name": ["Young Link Unlock Match"], "sections": [{"access_rules": ["$got_10_characters"], "name": "Young Link Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 800, "y": 400}]}]},
+{"name": ["Roy Unlock Match"], "access_rules": ["ClassicMode", "AdventureMode", "All-StarMode"], "children": [{"name": ["Roy Unlock Match"], "sections": [{"access_rules": ["CharacterMarth"], "name": "Roy Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 800, "y": 250}]}]},
+
+{"name": ["Mr. Game & Watch Unlock Match"], "access_rules": ["ClassicMode", "AdventureMode", "All-StarMode", "TargetTest"], "children": [{"name": ["Mr. Game & Watch Unlock Match"], "sections": [{"access_rules": ["$got_all_characters_except_GW"], "name": "Mr. Game & Watch Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 720, "y": 540}]}]},
+
+{"name": ["Marth Unlock Match"], "access_rules": [], "children": [{"name": ["Marth Unlock Match"], "sections": [{"access_rules": ["$got_all_starter_characters"], "name": "Marth Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 650, "y": 250}]}]},
+
+{"name": ["Mewtwo Unlock Match"], "access_rules": [], "children": [{"name": ["Mewtwo Unlock Match"], "sections": [{"access_rules": [], "name": "Mewtwo Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 575, "y": 540}]}]},
+
+{"name": ["Luigi Unlock Match"], "access_rules": [["AdventureMode"]], "children": [{"name": ["Luigi Unlock Match"], "sections": [{"access_rules": [], "name": "Luigi Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 650, "y": 400}]}]},
+
+{"name": ["Falco Unlock Match"], "access_rules": [["Multi-ManMelee"]], "children": [{"name": ["Falco Unlock Match"], "sections": [{"access_rules": [], "name": "Falco Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 250}]}]},
+
+{"name": ["Pichu Unlock Match"], "access_rules": [[]], "children": [{"name": ["Pichu Unlock Match"], "sections": [{"access_rules": [["EventPack8"], ["EventPack7"], ["EventPack6"]], "name": "Pichu Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 800, "y": 90}]}]},
+{"name": ["Ganondorf Unlock Match"], "access_rules": [[]], "children": [{"name": ["Ganondorf Unlock Match"], "sections": [{"access_rules": [["EventPack8"], ["EventPack7"], ["EventPack6"], ["EventPack5"], ["EventPack4"]], "name": "Ganondorf Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 400}]}]},
+]

@@ -1,0 +1,390 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+
+  //1-P Stuff
+  {
+    "name":"Adventure Mode",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/Giga_Bowser.png",
+    "codes": "AdventureMode"
+  },
+  {
+    "name":"All-Star Mode",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/All_Star.png",
+    "codes": "All-StarMode"
+  },
+  {
+    "name":"Classic Mode",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/Crazy_hand.png",
+    "codes": "ClassicMode"
+  },
+  {
+    "name":"Home-Run Contest",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/Home_Run.png",
+    "codes": "Home-RunContest"
+  },
+  {
+    "name":"Multi-Man Melee",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/Multi_ManMelee.png",
+    "codes": "Multi-ManMelee"
+  },
+  {
+    "name":"Target Test",
+    "type":"toggle",
+    "img": "images/items/1P_Modes/Target.png",
+    "codes": "TargetTest"
+  },
+  {
+    "name":"Progressive Event Pack",
+    "type":"progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img":"images/items/1P_Modes/Event0.png",
+        "codes": "EventPack0",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event1.png",
+        "codes": "EventPack1",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event2.png",
+        "codes": "EventPack2",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event3.png",
+        "codes": "EventPack3",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event4.png",
+        "codes": "EventPack4",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event5.png",
+        "codes": "EventPack5",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event6.png",
+        "codes": "EventPack6",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event7.png",
+        "codes": "EventPack7",
+        "inherit_codes": false
+      },
+      {
+        "img":"images/items/1P_Modes/Event8.png",
+        "codes": "EventPack8",
+        "inherit_codes": false
+      }
+    ]  
+  },
+  // Characters
+  {
+    "name":"Dr. Mario",
+    "type":"toggle",
+    "img": "images/items/characters/Dr_Mario.png",
+    "codes": "CharacterDrMario"
+  },
+  {
+    "name":"Mario",
+    "type":"toggle",
+    "img": "images/items/characters/Mario.png",
+    "codes": "CharacterMario"
+  },
+  {
+    "name":"Luigi",
+    "type":"toggle",
+    "img": "images/items/characters/Luigi.png",
+    "codes": "CharacterLuigi"
+  },
+  {
+    "name":"Bowser",
+    "type":"toggle",
+    "img": "images/items/characters/Bowser.png",
+    "codes": "CharacterBowser"
+  },
+  {
+    "name":"Peach",
+    "type":"toggle",
+    "img": "images/items/characters/Peach.png",
+    "codes": "CharacterPeach"
+  },
+  {
+    "name":"Yoshi",
+    "type":"toggle",
+    "img": "images/items/characters/Yoshi.png",
+    "codes": "CharacterYoshi"
+  },
+  {
+    "name":"Donkey Kong",
+    "type":"toggle",
+    "img": "images/items/characters/Donkey_Kong.png",
+    "codes": "CharacterDonkeyKong"
+  },
+  {
+    "name":"Captain Falcon",
+    "type":"toggle",
+    "img": "images/items/characters/Captain_Falcon.png",
+    "codes": "CharacterCaptainFalcon"
+  },
+  {
+    "name":"Ganondorf",
+    "type":"toggle",
+    "img": "images/items/characters/Ganondorf.png",
+    "codes": "CharacterGanondorf"
+  },
+  {
+    "name":"Falco",
+    "type":"toggle",
+    "img": "images/items/characters/Falco.png",
+    "codes": "CharacterFalco"
+  },
+  {
+    "name":"Fox",
+    "type":"toggle",
+    "img": "images/items/characters/Fox.png",
+    "codes": "CharacterFox"
+  },
+  {
+    "name":"Ness",
+    "type":"toggle",
+    "img": "images/items/characters/Ness.png",
+    "codes": "CharacterNess"
+  },
+  {
+    "name":"Ice Climbers",
+    "type":"toggle",
+    "img": "images/items/characters/Ice_Climbers.png",
+    "codes": "CharacterIceClimbers"
+  },
+  {
+    "name":"Kirby",
+    "type":"toggle",
+    "img": "images/items/characters/Kirby.png",
+    "codes": "CharacterKirby"
+  },
+  {
+    "name":"Samus",
+    "type":"toggle",
+    "img": "images/items/characters/Samus.png",
+    "codes": "CharacterSamus"
+  },
+  {
+    "name":"Zelda",
+    "type":"toggle",
+    "img": "images/items/characters/Zelda.png",
+    "codes": "CharacterZelda"
+  },
+  {
+    "name":"Link",
+    "type":"toggle",
+    "img": "images/items/characters/Link.png",
+    "codes": "CharacterLink"
+  },
+  {
+    "name":"Young Link",
+    "type":"toggle",
+    "img": "images/items/characters/Young_Link.png",
+    "codes": "CharacterYoungLink"
+  },
+  {
+    "name":"Pichu",
+    "type":"toggle",
+    "img": "images/items/characters/Pichu.png",
+    "codes": "CharacterPichu"
+  },
+  {
+    "name":"Pikachu",
+    "type":"toggle",
+    "img": "images/items/characters/Pikachu.png",
+    "codes": "CharacterPikachu"
+  },
+  {
+    "name":"Jigglypuff",
+    "type":"toggle",
+    "img": "images/items/characters/Jigglypuff.png",
+    "codes": "CharacterJigglypuff"
+  },
+  {
+    "name":"Mewtwo",
+    "type":"toggle",
+    "img": "images/items/characters/Mewtwo.png",
+    "codes": "CharacterMewtwo"
+  },
+  {
+    "name":"Mr. Game & Watch",
+    "type":"toggle",
+    "img": "images/items/characters/Mr_Game_and_Watch.png",
+    "codes": "CharacterMrGame&Watch"
+  },
+  {
+    "name":"Marth",
+    "type":"toggle",
+    "img": "images/items/characters/Marth.png",
+    "codes": "CharacterMarth"
+  },
+  {
+    "name":"Roy",
+    "type":"toggle",
+    "img": "images/items/characters/Roy.png",
+    "codes": "CharacterRoy"
+  },
+  //Stages
+  {
+    "name":"Brinstar Depths",
+    "type":"toggle",
+    "img": "images/items/stages/brinstardepths.jpg",
+    "codes": "StageBrinstarDepths"
+  },
+  {
+    "name":"Fourside",
+    "type":"toggle",
+    "img": "images/items/stages/fourside.png",
+    "codes": "StageFourside"
+  },
+  {
+    "name":"Big Blue",
+    "type":"toggle",
+    "img": "images/items/stages/bigblue.jpg",
+    "codes": "StageBigBlue"
+  },
+  {
+    "name":"Poké Floats",
+    "type":"toggle",
+    "img": "images/items/stages/pokefloats.jpg",
+    "codes": "StagePokéFloats"
+  },
+  {
+    "name":"Mushroom Kingdom II",
+    "type":"toggle",
+    "img": "images/items/stages/mushroomkingdomII.png",
+    "codes": "StageMushroomKingdomII"
+  },
+  {
+    "name":"Dream Land (Past)",
+    "type":"toggle",
+    "img": "images/items/stages/dreamland.jpg",
+    "codes": "StageDreamLandPast"
+  },
+  {
+    "name":"Kongo Jungle (Past)",
+    "type":"toggle",
+    "img": "images/items/stages/kongojungle.png",
+    "codes": "StageKongoJunglePast"
+  },
+  {
+    "name":"Yoshi's Island (Past)",
+    "type":"toggle",
+    "img": "images/items/stages/yoshisisland.png",
+    "codes": "StageYoshisIslandPast"
+  },
+  {
+    "name":"Battlefield",
+    "type":"toggle",
+    "img": "images/items/stages/battlefield.jpg",
+    "codes": "StageBattlefield"
+  },
+  {
+    "name":"Final Destination",
+    "type":"toggle",
+    "img": "images/items/stages/finaldestination.png",
+    "codes": "StageFinalDestination"
+  },
+  {
+    "name":"Flat Zone",
+    "type":"toggle",
+    "img": "images/items/stages/flatzone.jpg",
+    "codes": "StageFlatZone"
+  },
+  //Trophies (characters)
+  {"name": "Mario (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarioTrophy"},
+  {"name": "Mario (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarioSmashTrophy"},
+  {"name": "Mario (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarioSmashAltTrophy"},
+  {"name": "Donkey Kong (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DonkeyKongTrophy"},
+  {"name": "Donkey Kong (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DonkeyKongSmashTrophy"},
+  {"name": "Donkey Kong (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DonkeyKongSmashAltTrophy"},
+  {"name": "Link (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LinkTrophy"},
+  {"name": "Link (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LinkSmashTrophy"},
+  {"name": "Link (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LinkSmashAltTrophy"},
+  {"name": "Samus Aran (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SamusAranTrophy"},
+  {"name": "Samus Aran (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SamusAranSmashTrophy"},
+  {"name": "Samus Aran (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SamusAranSmashAltTrophy"},
+  {"name": "Yoshi (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoshiTrophy"},
+  {"name": "Yoshi (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoshiSmashTrophy"},
+  {"name": "Yoshi (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoshiSmashAltTrophy"},
+  {"name": "Kirby (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "KirbyTrophy"},
+  {"name": "Kirby (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "KirbySmashTrophy"},
+  {"name": "Kirby (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "KirbySmashAltTrophy"},
+  {"name": "Fox McCloud (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FoxMcCloudTrophy"},
+  {"name": "Fox McCloud (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FoxMcCloudSmashTrophy"},
+  {"name": "Fox McCloud (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FoxMcCloudSmashAltTrophy"},
+  {"name": "Pikachu (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PikachuTrophy"},
+  {"name": "Pikachu (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PikachuSmashTrophy"},
+  {"name": "Pikachu (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PikachuSmashAltTrophy"},
+  {"name": "Ness (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "NessTrophy"},
+  {"name": "Ness (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "NessSmashTrophy"},
+  {"name": "Ness (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "NessSmashAltTrophy"},
+  {"name": "Captain Falcon (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "CaptainFalconTrophy"},
+  {"name": "Captain Falcon (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "CaptainFalconSmashTrophy"},
+  {"name": "Captain Falcon (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "CaptainFalconSmashAltTrophy"},
+  {"name": "Bowser (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "BowserTrophy"},
+  {"name": "Bowser (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "BowserSmashTrophy"},
+  {"name": "Bowser (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "BowserSmashAltTrophy"},
+  {"name": "Peach (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PeachTrophy"},
+  {"name": "Peach (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PeachSmashTrophy"},
+  {"name": "Peach (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PeachSmashAltTrophy"},
+  {"name": "Ice Climbers (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "IceClimbersTrophy"},
+  {"name": "Ice Climbers (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "IceClimbersSmashTrophy"},
+  {"name": "Ice Climbers (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "IceClimbersSmashAltTrophy"},
+  {"name": "Zelda (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "ZeldaTrophy"},
+  {"name": "Zelda (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "ZeldaSmashTrophy"},
+  {"name": "Zelda (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "ZeldaSmashAltTrophy"},
+  {"name": "Sheik (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SheikTrophy"},
+  {"name": "Sheik (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SheikSmashTrophy"},
+  {"name": "Sheik (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "SheikSmashAltTrophy"},
+  {"name": "Luigi (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LuigiTrophy"},
+  {"name": "Luigi (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LuigiSmashTrophy"},
+  {"name": "Luigi (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "LuigiSmashAltTrophy"},
+  {"name": "Jigglypuff (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "JigglypuffTrophy"},
+  {"name": "Jigglypuff (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "JigglypuffSmashTrophy"},
+  {"name": "Jigglypuff (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "JigglypuffSmashAltTrophy"},
+  {"name": "Mewtwo (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MewtwoTrophy"},
+  {"name": "Mewtwo (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MewtwoSmashTrophy"},
+  {"name": "Mewtwo (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MewtwoSmashAltTrophy"},
+  {"name": "Marth (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarthTrophy"},
+  {"name": "Marth (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarthSmashTrophy"},
+  {"name": "Marth (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MarthSmashAltTrophy"},
+  {"name": "Mr. Game & Watch (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MrGame&WatchTrophy"},
+  {"name": "Mr. Game & Watch (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MrGame&WatchSmashTrophy"},
+  {"name": "Mr. Game & Watch (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "MrGame&WatchSmashAltTrophy"},
+  {"name": "Dr. Mario (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DrMarioTrophy"},
+  {"name": "Dr. Mario (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DrMarioSmashTrophy"},
+  {"name": "Dr. Mario (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "DrMarioSmashAltTrophy"},
+  {"name": "Ganondorf (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "GanondorfTrophy"},
+  {"name": "Ganondorf (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "GanondorfSmashTrophy"},
+  {"name": "Ganondorf (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "GanondorfSmashAltTrophy"},
+  {"name": "Falco Lombardi (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FalcoLombardiTrophy"},
+  {"name": "Falco Lombardi (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FalcoLombardiSmashTrophy"},
+  {"name": "Falco Lombardi (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "FalcoLombardiSmashAltTrophy"},
+  {"name": "Young Link (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoungLinkTrophy"},
+  {"name": "Young Link (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoungLinkSmashTrophy"},
+  {"name": "Young Link (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "YoungLinkSmashAltTrophy"},
+  {"name": "Pichu (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PichuTrophy"},
+  {"name": "Pichu (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PichuSmashTrophy"},
+  {"name": "Pichu (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "PichuSmashAltTrophy"},
+  {"name": "Roy (Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "RoyTrophy"},
+  {"name": "Roy (Smash Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "RoySmashTrophy"},
+  {"name": "Roy (Smash Alt Trophy)", "img": "images/placeholder.png", "type": "toggle", "codes": "RoySmashAltTrophy"}
+]
