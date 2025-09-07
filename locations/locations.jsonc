@@ -1393,7 +1393,7 @@
       {
         "name": "Hard (or higher), no continues",
         "access_rules": [
-          "AdventureMode"
+          "ClassicMode"
         ],
         "sections": [
           {
@@ -1786,5 +1786,5 @@
 {"name": ["Falco Unlock Match"], "access_rules": [["Multi-ManMelee"]], "children": [{"name": ["Falco Unlock Match"], "sections": [{"access_rules": [], "name": "Falco Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 250}]}]},
 
 {"name": ["Pichu Unlock Match"], "access_rules": [[]], "children": [{"name": ["Pichu Unlock Match"], "sections": [{"access_rules": [["EventPack8"], ["EventPack7"], ["EventPack6"]], "name": "Pichu Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 800, "y": 90}]}]},
-{"name": ["Ganondorf Unlock Match"], "access_rules": [[]], "children": [{"name": ["Ganondorf Unlock Match"], "sections": [{"access_rules": [["EventPack8"], ["EventPack7"], ["EventPack6"], ["EventPack5"], ["EventPack4"]], "name": "Ganondorf Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 400}]}]},
+{"name": ["Ganondorf Unlock Match"], "access_rules": [["CharacterLink"]], "children": [{"name": ["Ganondorf Unlock Match"], "sections": [{"access_rules": [["EventPack8"], ["EventPack7"], ["EventPack6"], ["EventPack5"], ["EventPack4"]], "name": "Ganondorf Unlock Match", "item_count": 1}], "map_locations": [{"map": "event4", "x": 500, "y": 400}]}]},
 ]
